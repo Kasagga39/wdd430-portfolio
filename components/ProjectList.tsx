@@ -5,6 +5,7 @@ interface Project {
   description: string;
   technologies: string[];
   link?: string;
+  type?: string;
 }
 
 interface ProjectListProps {
