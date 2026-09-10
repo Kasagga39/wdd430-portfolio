@@ -30,13 +30,15 @@ export default function About() {
         <div className="p-6 bg-white rounded-lg shadow-md border border-gray-200">
           <h4 className="font-bold text-lg mb-2">What is the purpose of layout.tsx?</h4>
           <p className="text-gray-700">
-            The layout.tsx file defines the shared UI structure that wraps all pages in a route segment. It persists across navigations and maintains state while allowing page content to change.
+            The layout.tsx file defines the shared UI structure that wraps all pages in a route segment.
+            It persists across navigations and maintains state while allowing page content to change.
           </p>
         </div>
         <div className="p-6 bg-white rounded-lg shadow-md border border-gray-200">
           <h4 className="font-bold text-lg mb-2">Why are Server Components used by default?</h4>
           <p className="text-gray-700">
-            Server Components improve performance by rendering on the server and sending minimal JavaScript to the client. They also provide direct access to backend resources without exposing sensitive data.
+            Server Components improve performance by rendering on the server and sending minimal JavaScript to the client.
+            They also provide direct access to backend resources without exposing sensitive data.
           </p>
         </div>
       </div>
