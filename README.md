@@ -4,7 +4,7 @@ A portfolio site built with Next.js (App Router), React, TypeScript, and Tailwin
 
 ## Live Demo
 
-[Vercel Deployment](https://portfolio.vercel.app)
+[Vercel Deployment](https://wdd430-portfolio-one-iota.vercel.app/)
 
 > Replace the URL above with your actual Vercel deployment URL after deploying.
 
